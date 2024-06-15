@@ -1,5 +1,8 @@
 # Technical Documentation Page
 
+C++ is the first programming I learned and it just has a special place in my heart, so my technical page has to be about it!
+
+
 A webpage created for the FreeCodeCamp Responsive Web Design Project: Build a Technical Documentation Page.<br/>
 You can see the documentation page at [CodePen](https://codepen.io/aarxa-the-sans/full/mdYpeKp)<br/><br/>
 
