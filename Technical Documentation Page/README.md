@@ -1,6 +1,6 @@
 # Technical Documentation Page
 
-C++ is the first programming I learned and it just has a special place in my heart, so my technical page has to be about it!
+C++ is the first programming I learned and it just has a special place in my heart, so my technical page had to be about it!
 
 
 A webpage created for the FreeCodeCamp Responsive Web Design Project: Build a Technical Documentation Page.<br/>
